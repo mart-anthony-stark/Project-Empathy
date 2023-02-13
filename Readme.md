@@ -58,3 +58,5 @@ An emotion-based recommendation dataset is a collection of data that is designed
 - The Crucible - Arthur Miller - 1953
 - Hamlet - William Shakespeare - 1600s
 - Macbeth - William Shakespeare - 1600s
+
+<div align="center">Made with ❤️ by Mart Salazar</div>
